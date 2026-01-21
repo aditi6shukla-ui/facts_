@@ -1,2 +1,2 @@
 # facts_
-this will give you random facts about random words you type
+A simple Streamlit app that instantly shows a fact when a user types the name of a planet, animal, fruit, car brand, or country.
